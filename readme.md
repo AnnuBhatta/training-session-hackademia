@@ -12,4 +12,7 @@ Name: Rubina Poudel
 Topics practiced:  cloning, branching, Pull Request.  
 One thing I learned: To fork, clone, and make a pull request on GitHub.
 
+Name: Shashwat Gautam
+Topics practiced: cloning, branching, Pull Request
+One thing I learned: Fork, clone, and make a pull request on Github.
 

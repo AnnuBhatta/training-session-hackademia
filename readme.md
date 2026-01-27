@@ -2,8 +2,6 @@ Welcome to training-session! 2026
 
 Day1: Git and github
 
-Day2: Branching, solving merge conflicts, PR workflow
-
 
 Participants :
 
@@ -21,3 +19,7 @@ Name: Tiya Shrestha
 Name: Pratyush Neupane
 Topics practiced: cloning, branching, Pull Request.
 One thing I learned: To fork, clone, and make a pull request on GitHub.
+
+Name: Sanskar Dhakal
+Hello 
+Day2: Branching, solving merge conflicts, PR workflow

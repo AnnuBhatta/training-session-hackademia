@@ -8,5 +8,3 @@ __pycache__/
 #ignore csv files
 *.csv
 
-#ignore .ipynb files
-*.ipynb
